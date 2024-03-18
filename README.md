@@ -11,10 +11,7 @@
  </a>
 
 </p>
-<br/>
 
-
-<hr/>
 
 <p align="center">
   <a href="[https://github.com/tvlpirb](https://www.linkedin.com/in/anas-rustom-6b09632a2/)">
