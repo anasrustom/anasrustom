@@ -1,5 +1,27 @@
-### Hi there 👋
+# Hi! It's Anas 👋
+## About Me 
+* Computer Science student @ Qatar University
+* Interests: Web development, competitive programming, artificial intelligence, software engineering
 
+</p>
+<p align="center">
+
+ <a href="[https://www.linkedin.com/in/Anas-Rustom/](https://www.linkedin.com/in/anas-rustom-6b09632a2/)" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+ </a>
+
+</p>
+<br/>
+
+
+<hr/>
+
+<p align="center">
+  <a href="[https://github.com/tvlpirb](https://www.linkedin.com/in/anas-rustom-6b09632a2/)">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anasrustom&theme=gruvbox" alt="Anas's Profile Detail Card"/>
+  </a>
+        <br/>
+</p>
 <!--
 **anasrustom/anasrustom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
