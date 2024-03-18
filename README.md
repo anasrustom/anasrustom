@@ -1,9 +1,18 @@
 # Hi! It's Anas 👋
 ## About Me 
 * Computer Science student @ Qatar University
-* Interests: Web development, competitive programming, artificial intelligence, software engineering
+* Interests: Web development, Competitive Programming, Artificial Intelligence, Software Engineering
 
 </p>
+
+| Rank | Languages |
+|-----:|---------------|
+|     1|       JavaScript        |
+|     2|      HTML & CSS         |
+|     3|       Python        |
+|     4|         Java      |
+
+
 <p align="center">
 
  <a href="[https://www.linkedin.com/in/Anas-Rustom/](https://www.linkedin.com/in/anas-rustom-6b09632a2/)" target="_blank">
