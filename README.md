@@ -15,7 +15,7 @@
 
 <p align="center">
 
- <a href="[https://www.linkedin.com/in/Anas-Rustom/](https://www.linkedin.com/in/anas-rustom-6b09632a2/)" target="_blank">
+ <a href="https://www.linkedin.com/in/anas-rustom-6b09632a2/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
 
@@ -23,7 +23,7 @@
 
 
 <p align="center">
-  <a href="[https://github.com/tvlpirb](https://www.linkedin.com/in/anas-rustom-6b09632a2/)">
+  <a href="[https://github.com/anasrustom](https://www.linkedin.com/in/anas-rustom-6b09632a2/)">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anasrustom&theme=gruvbox" alt="Anas's Profile Detail Card"/>
   </a>
         <br/>
