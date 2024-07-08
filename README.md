@@ -1,8 +1,8 @@
 # Hi! I'm Anas 👋
 # :dizzy: About Me
 :zap: I'm a Computer Science student @ Qatar University.<br>
-:telescope: I'm currently working on Data Visualization projects using D3.js and AJAX.<br>
-:seedling: I'm currently learning bash.<br>
+:telescope: I'm currently interning at QCRI<br>
+:seedling: I'm currently learning Postman.<br>
 :speech_balloon: I'm interested in Web development, Competitive Programming, Artificial Intelligence, and Software Engineering.<br><br>
 
 # :computer: Tech Stack:
