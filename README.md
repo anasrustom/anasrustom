@@ -1,8 +1,8 @@
 # Hi! I'm Anas 👋
 # :dizzy: About Me
 :zap: I'm a Honors Computer Science student @ Qatar University.<br>
-:speech_balloon: I'm interested in Web development, Competitive Programming, Artificial Intelligence, and Software Engineering.<br><br>
-:telescope: Check out my portfolio!<br>
+:speech_balloon: I'm interested in Web development, Competitive Programming, Artificial Intelligence, and Software Engineering.<br>
+:telescope: Check out my portfolio!<br><br>
 
 ## :globe_with_meridians: Contact me!
 <p align="center">
