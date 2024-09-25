@@ -1,8 +1,7 @@
 # Hi! I'm Anas 👋
 # :dizzy: About Me
-:zap: I'm a Computer Science student @ Qatar University.<br>
-:telescope: I'm currently interning at E-Butler<br>
-:seedling: I'm currently learning Postman.<br>
+:zap: I'm a Honors Computer Science student @ Qatar University.<br>
+:telescope: Check out my portfolio!<br>
 :speech_balloon: I'm interested in Web development, Competitive Programming, Artificial Intelligence, and Software Engineering.<br><br>
 
 # :computer: Tech Stack:
