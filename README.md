@@ -35,7 +35,7 @@ Those ACs don't need replacing. They need a brain.
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/thamara-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/thamara-light.svg">
-    <img alt="Thamara: farm recovery that works with no signal" src="./assets/thamara-light.svg" width="100%">
+    <img alt="Thamara: farm recovery that works offline" src="./assets/thamara-light.svg" width="100%">
   </picture>
 </a>
 <p align="center"><sub>For farmers restarting food production on damaged land, with no internet · <b>3rd place, LifeLines Hackathon 2026</b> · with <a href="https://github.com/elansarii">Mohamed Elansari</a> · <a href="https://www.youtube.com/watch?v=SN8vezWh0Tw">demo video</a></sub></p>
